@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">VidyaQuest</string>
+
+    <!-- Navigation -->
+    <string name="nav_learn">Learn</string>
+    <string name="nav_badges">Badges</string>
+    <string name="nav_leaderboard">Leaderboard</string>
+
+    <!-- Home / Learn Screen -->
+    <string name="label_level_prefix">LVL</string>
+    <string name="label_xp_suffix">XP</string>
+    <string name="label_streak_unit">streak</string>
+    <string name="hero_kicker">DAILY LEARNING QUEST</string>
+    <string name="hero_title_continue">Continue your path</string>
+    <string name="hero_title_mastered">All lessons explored</string>
+    <string name="hero_cta_start">Start Lesson</string>
+    <string name="hero_cta_review">Review Lesson</string>
+    <string name="filter_all_subjects">All Subjects</string>
+    <string name="section_subjects_title">Learning Tracks</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_next_up">Next Up</string>
+    <string name="cd_hero_banner">Editorial learning quest illustration</string>
+    <string name="cd_switch_profile">Switch or edit learner profile</string>
+
+    <!-- Lesson & Quiz Flow -->
+    <string name="cd_close_lesson">Close lesson</string>
+    <string name="label_study_card">Concept Card</string>
+    <string name="label_key_takeaway">KEY TAKEAWAY</string>
+    <string name="label_real_world">REAL-WORLD EXAMPLE</string>
+    <string name="btn_previous">Previous</string>
+    <string name="btn_next_card">Next Card</string>
+    <string name="btn_start_quiz">Take Quiz</string>
+    <string name="label_quiz_check">Knowledge Check</string>
+    <string name="label_combo_bonus">Combo x%1$d</string>
+    <string name="feedback_correct">Spot on! +%1$d XP bonus</string>
+    <string name="feedback_incorrect">Good try! Review the insight below</string>
+    <string name="btn_next_question">Next Question</string>
+    <string name="btn_finish_lesson">Finish Lesson</string>
+    <string name="result_title_amazing">Lesson Mastered!</string>
+    <string name="result_title_good">Lesson Complete!</string>
+    <string name="result_xp_earned">+%1$d XP Earned</string>
+    <string name="result_accuracy_label">Quiz Accuracy</string>
+    <string name="result_badges_unlocked">New Milestone Badges Unlocked!</string>
+    <string name="btn_back_to_courses">Back to Courses</string>
+    <string name="btn_view_leaderboard">View Leaderboard</string>
+
+    <!-- Badges Screen -->
+    <string name="badges_header_title">Milestone Badges</string>
+    <string name="badges_header_subtitle">Unlock achievements as you master lessons and ace quizzes</string>
+    <string name="badges_unlocked_count">%1$d of %2$d Unlocked</string>
+    <string name="badges_reward_label">+%1$d XP Reward</string>
+    <string name="badge_status_earned">Earned</string>
+    <string name="cd_badge_crest">Scholarly achievement medallion illustration</string>
+
+    <!-- Leaderboard Screen -->
+    <string name="leaderboard_title">Study League</string>
+    <string name="leaderboard_subtitle">Local Device Rankings • Compete with classmates &amp; practice peers</string>
+    <string name="leaderboard_offline_note">Stored locally on device (cloud sync disabled)</string>
+    <string name="btn_add_learner">Add Profile</string>
+    <string name="tab_all_learners">All Rankings</string>
+    <string name="tab_device_profiles">Device Profiles</string>
+    <string name="badge_you">YOU</string>
+    <string name="badge_peer">LEAGUE PEER</string>
+    <string name="action_switch_active">Study as</string>
+    <string name="cd_trophy_banner">Golden scholar trophy banner</string>
+
+    <!-- Profile Dialogs -->
+    <string name="dialog_profile_title">Learner Profiles</string>
+    <string name="dialog_add_profile_title">Create Learner Profile</string>
+    <string name="hint_learner_name">Enter learner name</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_create_profile">Add New Learner</string>
+    <string name="label_active">Active</string>
+</resources>

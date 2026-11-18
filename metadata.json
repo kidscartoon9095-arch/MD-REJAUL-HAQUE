@@ -1,0 +1,6 @@
+{
+  "name": "VidyaQuest",
+  "description": "Gamified interactive learning app with structured courses, lesson quizzes, milestone badges, XP points, and a community leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
